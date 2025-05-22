@@ -1,16 +1,38 @@
-<<<<<<< HEAD
-# cleanx
-=======
-# React + Vite
+# 🚗 CleanX Car Wash Subscription Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![CleanX Banner](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=CleanX+Premium+Car+Care) <!-- Replace with actual banner -->
 
-Currently, two official plugins are available:
+A modern SaaS platform for subscription-based car wash services, offering tiered monthly plans with automated booking and payment processing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- **Tiered Subscription Plans** (Basic/Pro/Luxury)
+- Real-time Booking Dashboard
+- Mobile-First Responsive Design
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 443e76b (Initial Commit)
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### Payment & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+## 🚀 Quick Start
+
+1. Clone repo:
+   ```bash
+   git clone https://github.com/yourusername/cleanx.git
